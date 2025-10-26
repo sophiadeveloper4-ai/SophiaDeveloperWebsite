@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Downloads</title>
+<style>
+  :root {
+    --accent: #ff2e7e;
+    font-family: Arial, sans-serif;
+  }
+  body {
+    margin: 0;
+    padding: 20px;
+    background: url("https://i.postimg.cc/ZqdtsJ6t/IMG-0640.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+  }
+  .box {
+    background: rgba(0,0,0,0.1);
+    backdrop-filter: blur(10px);
+    border: 2px solid var(--accent);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 20px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+  }
+  .two-column {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  .two-column .column {
+    text-align: center;
+    flex: 1;
+    min-width: 140px;
+  }
+  .title-box {
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .inner-box {
+  margin-top: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+  .logo-img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    border-radius: 12px;
+    margin-bottom: 6px;
+    border: 2px solid var(--accent);
+    background: rgba(255,255,255,0.06);
+  }
+  h2 {
+    margin: 0 0 8px 0;
+    font-size: 18px;
+  }
+  .btn {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: 2px solid var(--accent);
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    text-decoration: none;
+    margin-top: 4px;
+    transition: 0.3s;
+    box-shadow: 0 0 8px rgba(255,0,0,0.2);
+  }
+  .btn:hover {
+    box-shadow: 0 0 15px var(--accent), 0 0 30px rgba(255,0,0,0.7);
+    background: rgba(255,0,0,0.2);
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 8px 0;
+  }
+  ul li {
+    padding: 4px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+</style>
+</head>
+<body>
+
+<!-- Title -->
+<div class="box title-box">
+  Free Scripts &amp; Tools by:<br>
+  <strong>Sophia Developer</strong>
+
+  <!-- Inner Box -->
+  <div class="inner-box">
+
+Note: This is free and not my work. All credit goes to the original creator.
+
+  </div>
+</div>
+
+<!-- GameGuardian & SixToGG -->
+<div class="box two-column">
+  <div class="column">
+    <img class="logo-img" src="https://i.ibb.co/zVY1hsPL/IMG-0660.jpg" alt="GameGuardian">
+    <h2>GameGuardian</h2>
+    <a class="btn" href="https://www.mediafire.com/file/GameGuardian.apk" target="_blank">Download</a>
+  </div>
+  <div class="column">
+    <img class="logo-img" src="https://i.ibb.co/zVY1hsPL/IMG-0660.jpg" alt="SixToGG">
+    <h2>SixToGG</h2>
+    <a class="btn" href="https://www.mediafire.com/file/SixToGG.apk" target="_blank">Download</a>
+  </div>
+  <div class="column">
+    <img class="logo-img" src="https://i.ibb.co/zVY1hsPL/IMG-0660.jpg" alt="KinziGG">
+    <h2>KinziGG</h2>
+    <a class="btn" href="https://www.mediafire.com/file/KinziGG.apk" target="_blank">Download</a>
+  </div>
+</div>
+
+<!-- Tutorial Button -->
+<div class="box" style="text-align:center;">
+  <a class="btn" href="https://t.me/YourGroup" target="_blank" style="font-size:16px; padding:10px 20px;">
+    ðŸ“– Tutorial
+  </a>
+</div>
+
+<!-- Virtual Apps -->
+<div class="box">
+  <img class="logo-img" src="https://i.ibb.co/VcP3WQ2h/IMG-0661.jpg" alt="Virtual Logo">
+  <h2>Virtual</h2>
+  <div class="box two-column">
+    <div class="column">
+      <img class="logo-img" src="https://i.ibb.co/F4C8hRvS/download.jpg" alt="Lulubox">
+      <h2>Lulubox</h2>
+      <a class="btn" href="https://www.mediafire.com/file/lulubox.apk" target="_blank">Download</a>
+    </div>
+    <div class="column">
+      <img class="logo-img" src="https://i.ibb.co/hxF5hcvB/download-1.jpg" alt="Gspace">
+      <h2>Gspace</h2>
+      <a class="btn" href="https://www.mediafire.com/file/gspace.apk" target="_blank">Download</a>
+    </div>
+    <div class="column">
+      <img class="logo-img" src="https://i.ibb.co/Y4Tygqhj/20250813-100305.jpg" alt="Guanyin">
+      <h2>Guanyin</h2>
+      <a class="btn" href="https://www.mediafire.com/file/app3.apk" target="_blank">Download</a>
+    </div>
+    <div class="column">
+      <img class="logo-img" src="https://i.ibb.co/CKXZdZ30/images-3.jpg" alt="Kgo MultiSpace">
+      <h2>Kgo MultiSpace</h2>
+      <a class="btn" href="https://www.mediafire.com/file/app3.apk" target="_blank">Download</a>
+    </div>
+    <div class="column">
+      <img class="logo-img" src="https://i.ibb.co/q3TY72xc/images-4.jpg" alt="MultiApp">
+      <h2>MultiApp</h2>
+      <a class="btn" href="https://www.mediafire.com/file/app4.apk" target="_blank">Download</a>
+    </div>
+  </div>
+</div>
+
+<!-- Script / Lua -->
+<<div class="box">
+  <img class="logo-img" src="https://i.ibb.co/rRzMS0nb/IMG-0662.png" alt="Lua">
+  <h2>Script / Lua</h2>
+
+  <img class="logo-img" src="https://i.ibb.co/B2Z0bPqg/IMG-0664.png" alt="CPM1">
+ 
